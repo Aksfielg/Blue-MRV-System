@@ -1,5 +1,15 @@
 # 🌊 BlueMRV - Complete Blockchain-Powered Blue Carbon Platform
 
+<img width="1893" height="921" alt="image" src="https://github.com/user-attachments/assets/1221abdb-d1e8-4f4f-a606-75589076b20d" />
+
+<img width="1873" height="744" alt="image" src="https://github.com/user-attachments/assets/3e3e1406-711b-4b7b-9083-6ac71925671a" />
+
+<img width="1872" height="847" alt="image" src="https://github.com/user-attachments/assets/b64e26df-42ae-43da-8c4c-2b6a07698c98" />
+
+<img width="1880" height="837" alt="image" src="https://github.com/user-attachments/assets/23e14056-fbcb-45e8-b79c-83360248e3dd" />
+
+
+
 A comprehensive platform for monitoring, reporting, and verifying blue carbon restoration projects with blockchain integration, tokenized carbon credits, and marketplace functionality.
 
 ## 🏗️ Architecture Overview
